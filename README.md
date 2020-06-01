@@ -6,7 +6,7 @@ Minesweeper is a single-player puzzle video game. The objective of the game is t
 Using Test First Development (no code without test first), I implemented the minesweeper game in Python.
 
 
-![Minesweeper](https://github.com/a.png)
+![Minesweeper](https://github.com/Shaila96/Software-Design/blob/master/assign1/minsweeper_2.png)
 
 The object of the game is for a player to find and seal all ten mines hidden  among hundred cells (10 x 10 cells). The mines may be in any random location.
 
@@ -37,3 +37,6 @@ is shown and no further action happens.
 There are two outcomes of the game. The player wins after sealing all the
 mines and exposing all the other cells. The player loses if a mined cell
 is exposed.
+
+
+![Minesweeper](https://github.com/Shaila96/Software-Design/blob/master/assign1/minsweeper_1.png)
