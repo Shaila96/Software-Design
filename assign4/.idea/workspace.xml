@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3046e3a1-2dc0-46d9-bdd0-a54902aa3a30" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a2mtFJNAj6sm6wlYRfivsZSy67" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/applicant" />
+      <recent name="$PROJECT_DIR$/src/criteria" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/criteria" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest">
+    <configuration name="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="assign4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/applicant" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;evaluate_applicant_test.EvaluateCriteriaApplicantTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_applicant_empty_criteria" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="assign4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/applicant" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_applicant_empty_criteria&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_empty_criteria" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="assign4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/applicant" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_empty_criteria&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_null_applicant" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="assign4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/applicant" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_null_applicant&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_pass_applicant_duplicate_criteria" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="assign4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/applicant" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_pass_applicant_duplicate_criteria&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest" />
+        <item itemvalue="Python tests.pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_pass_applicant_duplicate_criteria" />
+        <item itemvalue="Python tests.pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_null_applicant" />
+        <item itemvalue="Python tests.pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_empty_criteria" />
+        <item itemvalue="Python tests.pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_applicant_empty_criteria" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3046e3a1-2dc0-46d9-bdd0-a54902aa3a30" name="Default Changelist" comment="" />
+      <created>1585942275073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585942275073</updated>
+      <workItem from="1585942280767" duration="6968000" />
+      <workItem from="1586006239600" duration="574000" />
+      <workItem from="1586023707061" duration="7092000" />
+      <workItem from="1586061345266" duration="1285000" />
+      <workItem from="1586110650375" duration="5195000" />
+      <workItem from="1586212932741" duration="2025000" />
+      <workItem from="1586295636107" duration="4025000" />
+      <workItem from="1586387147400" duration="8296000" />
+      <workItem from="1586469472589" duration="1251000" />
+      <workItem from="1586528595155" duration="3286000" />
+      <workItem from="1586626304089" duration="848000" />
+      <workItem from="1586669817981" duration="21568000" />
+      <workItem from="1586902033358" duration="90000" />
+      <workItem from="1586907635186" duration="10080000" />
+      <workItem from="1586959117474" duration="514000" />
+      <workItem from="1586980300385" duration="16759000" />
+      <workItem from="1587146624741" duration="3250000" />
+      <workItem from="1587178521060" duration="1342000" />
+      <workItem from="1587663675675" duration="686000" />
+      <workItem from="1587860779914" duration="863000" />
+      <workItem from="1587920581509" duration="6520000" />
+      <workItem from="1588094691692" duration="1470000" />
+      <workItem from="1588097628371" duration="598000" />
+      <workItem from="1588184194542" duration="2123000" />
+      <workItem from="1588192278909" duration="67000" />
+      <workItem from="1588445819992" duration="1467000" />
+      <workItem from="1588524905145" duration="16000" />
+      <workItem from="1588544523446" duration="9000" />
+      <workItem from="1589057181597" duration="1385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="79" y="174" width="1476" height="820" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586914196401">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="79" y="174" width="1476" height="820" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1586914196401" />
+    <state x="575" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586913325402">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="575" y="350" key="#com.intellij.fileTypes.FileTypeChooser/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1586913325402" />
+    <state x="761" y="348" key="FileChooserDialogImpl" timestamp="1587148762845">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="761" y="348" key="FileChooserDialogImpl/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1587148762845" />
+    <state width="1634" height="476" key="GridCell.Tab.0.bottom" timestamp="1587076468173">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1634" height="476" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1587076468173" />
+    <state width="1634" height="642" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1586885921751" />
+    <state width="1634" height="476" key="GridCell.Tab.0.center" timestamp="1587076468173">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1634" height="476" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1587076468173" />
+    <state width="1634" height="642" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1586885921750" />
+    <state width="1634" height="476" key="GridCell.Tab.0.left" timestamp="1587076468172">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1634" height="476" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1587076468172" />
+    <state width="1634" height="642" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1586885921750" />
+    <state width="1634" height="476" key="GridCell.Tab.0.right" timestamp="1587076468173">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1634" height="476" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1587076468173" />
+    <state width="1634" height="642" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1586885921751" />
+    <state width="1634" height="342" key="GridCell.Tab.1.bottom" timestamp="1586899471652">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.1.bottom/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1586899471652" />
+    <state width="1634" height="342" key="GridCell.Tab.1.center" timestamp="1586899471652">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.1.center/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1586899471652" />
+    <state width="1634" height="342" key="GridCell.Tab.1.left" timestamp="1586899471652">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.1.left/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1586899471652" />
+    <state width="1634" height="342" key="GridCell.Tab.1.right" timestamp="1586899471652">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.1.right/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1586899471652" />
+    <state x="2243" y="312" width="1098" height="708" key="find.popup" timestamp="1587923121661">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="493" y="304" width="960" height="562" key="find.popup/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1587148772262" />
+    <state x="2243" y="312" width="1098" height="708" key="find.popup/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1587923121661" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/assign4$main.coverage" NAME="main Coverage Results" MODIFIED="1586390053592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_get_criteria_test_CriteriaTest_test_get_selected_criteria_checks.coverage" NAME="pytest for get_criteria_test.CriteriaTest.test_get_selected_criteria_checks Coverage Results" MODIFIED="1586719542999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/criteria" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateApplicantTest.coverage" NAME="pytest for evaluate_applicant_test.EvaluateApplicantTest Coverage Results" MODIFIED="1586799777864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_criteria_test_EvaluateCriteriaTest_test_criteria_for_pass.coverage" NAME="pytest for evaluate_criteria_test.EvaluateCriteriaTest.test_criteria_for_pass Coverage Results" MODIFIED="1586029833128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_get_criteria_test_DynamicCriteriaTest.coverage" NAME="pytest for get_criteria_test.DynamicCriteriaTest Coverage Results" MODIFIED="1586468360858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/criteria" />
+    <SUITE FILE_PATH="coverage/assign4$status_check.coverage" NAME="status_check Coverage Results" MODIFIED="1586391815848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_ApplicantTest_test_pass_applicant_two_passing_criteria.coverage" NAME="pytest for evaluate_applicant_test.ApplicantTest.test_pass_applicant_two_passing_criteria Coverage Results" MODIFIED="1586725852735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_employment_check_test_EvaluateEmploymentTest_test_employment_status_criteria.coverage" NAME="pytest for employment_check_test.EvaluateEmploymentTest.test_employment_status_criteria Coverage Results" MODIFIED="1586295866638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_employment_check_test_CheckEmploymentTest.coverage" NAME="pytest for employment_check_test.CheckEmploymentTest Coverage Results" MODIFIED="1586298781967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_in_applicant_status_test_py.coverage" NAME="pytest in applicant_status_test.py Coverage Results" MODIFIED="1586392769500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_criminal_record_check_test_CheckCriminalRecordTest.coverage" NAME="pytest for criminal_record_check_test.CheckCriminalRecordTest Coverage Results" MODIFIED="1586298942318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateCriteriaApplicantTest.coverage" NAME="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest Coverage Results" MODIFIED="1587075311662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_available_criteria_test_CriteriaTest.coverage" NAME="pytest for available_criteria_test.CriteriaTest Coverage Results" MODIFIED="1586626777738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/criteria" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_in_evaluate_applicant_test_py.coverage" NAME="pytest in evaluate_applicant_test.py Coverage Results" MODIFIED="1586895276619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_ApplicantTest_test_fail_applicant_two_passing_one_failing_criteria.coverage" NAME="pytest for evaluate_applicant_test.ApplicantTest.test_fail_applicant_two_passing_one_failing_criteria Coverage Results" MODIFIED="1586726682540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateCriteriaApplicantTest_test_null_applicant.coverage" NAME="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_null_applicant Coverage Results" MODIFIED="1586990418474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateApplicantTest_test_get_total_result_when_all_criteria_pass.coverage" NAME="pytest for evaluate_applicant_test.EvaluateApplicantTest.test_get_total_result_when_all_criteria_pass Coverage Results" MODIFIED="1585946464451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_dynamic_criteria_import_test_DynamicCriteriaImportTest.coverage" NAME="pytest for dynamic_criteria_import_test.DynamicCriteriaImportTest Coverage Results" MODIFIED="1586586814819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/criteria" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateCriteriaApplicantTest_test_empty_criteria.coverage" NAME="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_empty_criteria Coverage Results" MODIFIED="1586981793846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_ApplicantTest.coverage" NAME="pytest for evaluate_applicant_test.ApplicantTest Coverage Results" MODIFIED="1586731374815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateCriteriaApplicantTest_test_pass_applicant_two_passing_criteria.coverage" NAME="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_pass_applicant_two_passing_criteria Coverage Results" MODIFIED="1586895254522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateCriteriaApplicantTest_test_pass_applicant_one_passing_criteria.coverage" NAME="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_pass_applicant_one_passing_criteria Coverage Results" MODIFIED="1586886473764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$get_criteria.coverage" NAME="get_criteria Coverage Results" MODIFIED="1586468288276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/criteria" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_in_evaluate_criteria_test_py.coverage" NAME="pytest in evaluate_criteria_test.py Coverage Results" MODIFIED="1586030481531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_ApplicantTest_test_fail_applicant_one_failing_criteria.coverage" NAME="pytest for evaluate_applicant_test.ApplicantTest.test_fail_applicant_one_failing_criteria Coverage Results" MODIFIED="1586724865145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_visa_status_check_test_CheckVisaStatusTest.coverage" NAME="pytest for visa_status_check_test.CheckVisaStatusTest Coverage Results" MODIFIED="1586392824697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$visa_status_check.coverage" NAME="visa_status_check Coverage Results" MODIFIED="1586895364701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_get_criteria_test_CriteriaTest_test_get_criteria_list.coverage" NAME="pytest for get_criteria_test.CriteriaTest.test_get_criteria_list Coverage Results" MODIFIED="1586719551718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/criteria" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateCriteriaApplicantTest_test_get_empty_criteria.coverage" NAME="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_get_empty_criteria Coverage Results" MODIFIED="1586914150154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateCriteriaApplicantTest_test_applicant_empty_criteria.coverage" NAME="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_applicant_empty_criteria Coverage Results" MODIFIED="1586981708312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_ApplicantTest_test_pass_applicant_one_passing_criteria.coverage" NAME="pytest for evaluate_applicant_test.ApplicantTest.test_pass_applicant_one_passing_criteria Coverage Results" MODIFIED="1586726015150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_criminal_record_check_test_EvaluateEmploymentTest_test_criminal_record_criteria.coverage" NAME="pytest for criminal_record_check_test.EvaluateEmploymentTest.test_criminal_record_criteria Coverage Results" MODIFIED="1586295870380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateCriteriaApplicantTest_test_fail_applicant_one_failing_criteria.coverage" NAME="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_fail_applicant_one_failing_criteria Coverage Results" MODIFIED="1586895203161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_criteria_test_EvaluateCriteriaTest.coverage" NAME="pytest for evaluate_criteria_test.EvaluateCriteriaTest Coverage Results" MODIFIED="1586112888687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_ApplicantTest_test_fail_applicant_two_failing_criteria.coverage" NAME="pytest for evaluate_applicant_test.ApplicantTest.test_fail_applicant_two_failing_criteria Coverage Results" MODIFIED="1586726572319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateCriteriaApplicantTest_test_get_all_criteria.coverage" NAME="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_get_all_criteria Coverage Results" MODIFIED="1586920786319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_employment_check_test_EvaluateEmploymentTest.coverage" NAME="pytest for employment_check_test.EvaluateEmploymentTest Coverage Results" MODIFIED="1586295843756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_in_get_criteria_test_py.coverage" NAME="pytest in get_criteria_test.py Coverage Results" MODIFIED="1586468462662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/criteria" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_ApplicantTest_test_applicant_empty_criteria.coverage" NAME="pytest for evaluate_applicant_test.ApplicantTest.test_applicant_empty_criteria Coverage Results" MODIFIED="1586725266603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$evaluate_applicant.coverage" NAME="evaluate_applicant Coverage Results" MODIFIED="1586895487270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateCriteriaApplicantTest_test_pass_applicant_duplicate_criteria.coverage" NAME="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_pass_applicant_duplicate_criteria Coverage Results" MODIFIED="1587048965489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_result_test_EvaluateResultTest.coverage" NAME="pytest for evaluate_result_test.EvaluateResultTest Coverage Results" MODIFIED="1585943314951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_get_criteria_test_CriteriaTest.coverage" NAME="pytest for get_criteria_test.CriteriaTest Coverage Results" MODIFIED="1586719554966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/criteria" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateCriteriaApplicantTest_test_fail_applicant_two_passing_one_failing_criteria.coverage" NAME="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_fail_applicant_two_passing_one_failing_criteria Coverage Results" MODIFIED="1586956960758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateCriteriaApplicantTest_test_get_selected_criteria.coverage" NAME="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_get_selected_criteria Coverage Results" MODIFIED="1586920686352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_criteria_test_EvaluateCriteriaTest_test_criteria_for_fail.coverage" NAME="pytest for evaluate_criteria_test.EvaluateCriteriaTest.test_criteria_for_fail Coverage Results" MODIFIED="1586029829752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_test_EvaluateCriteriaApplicantTest_test_pass_applicant_two_same_passing_criteria.coverage" NAME="pytest for evaluate_applicant_test.EvaluateCriteriaApplicantTest.test_pass_applicant_two_same_passing_criteria Coverage Results" MODIFIED="1586981419223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/applicant" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_credit_check_test_CheckCreditTest.coverage" NAME="pytest for credit_check_test.CheckCreditTest Coverage Results" MODIFIED="1586298975745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_applicant_status_test_ApplicantStatusTest.coverage" NAME="pytest for applicant_status_test.ApplicantStatusTest Coverage Results" MODIFIED="1586392976767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/evaluate" />
+    <SUITE FILE_PATH="coverage/assign4$pytest_for_evaluate_applicant_status_test_ApplicantStatusTest.coverage" NAME="pytest for evaluate.applicant_status_test.ApplicantStatusTest Coverage Results" MODIFIED="1586392845030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+  </component>
+</project>
