@@ -5,6 +5,9 @@ Minesweeper is a single-player puzzle video game. The objective of the game is t
 
 Using Test First Development (no code without test first), I implemented the minesweeper game in Python.
 
+
+![Minesweeper](https://github.com/a.png)
+
 The object of the game is for a player to find and seal all ten mines hidden  among hundred cells (10 x 10 cells). The mines may be in any random location.
 
 There are three types of cells: mined cell, adjacent cell, and empty cell.
