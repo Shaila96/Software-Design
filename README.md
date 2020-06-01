@@ -4,7 +4,7 @@
 -------
 Minesweeper is a single-player puzzle video game. The objective of the game is to clear a rectangular board containing hidden "mines" or bombs without detonating any of them, with help from clues about the number of neighboring mines in each field.
 
-Using Test First Development (no code without test first), I implemented the minesweeper game in Python.
+Using Test First Development (no code without test first), I implemented the minesweeper game in Python. I followed the essential design principles and design patterns while developing the game.
 
 
 ![Minesweeper](https://github.com/Shaila96/Software-Design/blob/master/assign1/minsweeper_2.png)
